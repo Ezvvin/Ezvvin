@@ -11,4 +11,8 @@ I want to know:
 
 <img src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
-My social: <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=B4068E" /> <img scr= "https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=4F7DB3"/>
+My social: <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" /> 
+<img src= "https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=27A0D9"/>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ezvvn)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=27A0D9)](https://vk.com/tutu3333)
