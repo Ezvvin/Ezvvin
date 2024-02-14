@@ -5,7 +5,7 @@
 ## About me
 I don't just drink beer. I am enjoying it.🍻
 
-<div style="text-align: center;"> I study in</div>
+<div style="text-align: center;"> I study in</div> I study in
 
  [![logo](https://github.com/Ezvvin/Ezvvin/blob/main/Assets/YaPractic.png)](https://practicum.yandex.ru/)
 
