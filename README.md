@@ -15,4 +15,4 @@ My social:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ezvvn)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/tutu3333)
 
-![](./svg/index.html)
+![](./index.html)
