@@ -3,7 +3,6 @@
 
 
 ## About me
-I don't just drink beer. I am enjoying it.🍻
 
 I study in [![logo](https://github.com/Ezvvin/Ezvvin/blob/main/Assets/YaPractic.png)](https://practicum.yandex.ru/)
 
